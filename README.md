@@ -1,7 +1,5 @@
 # Lorenzo Castellani
 
----
-
 ## 🎓 Study
 
 Corsi, esercizi, appunti tecnici.
