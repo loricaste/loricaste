@@ -1,16 +1,32 @@
-## Hi there 👋
+# Lorenzo Castellani
+
+---
+
+## 🎓 Study
+
+Corsi, esercizi, appunti tecnici.
 
 <!--
-**loricaste/loricaste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Formato riga:
+- [nome-repo](https://github.com/loricaste/nome-repo) — cosa contiene
 
-Here are some ideas to get you started:
+- [dotnet-clean-architecture](https://github.com/loricaste/dotnet-clean-architecture) — soluzione di riferimento .NET 8
+- [react-patterns](https://github.com/loricaste/react-patterns) — hooks, composition, testing
+-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 Projects
+
+Cose finite, pubblicate o usate davvero.
+
+<!--
+- [Agenda Movimenti](https://github.com/loricaste/agenda-movimenti) — app finance su Google Play, backend GCP + Firebase
+- [api-gateway-openshift](https://github.com/loricaste/api-gateway-openshift) — deploy e osservabilità
+-->
+
+## 🧪 Experiments
+
+Spike, prototipi, cose che probabilmente non funzionano.
+
+<!--
+- [flutter-redesign](https://github.com/loricaste/flutter-redesign) — redesign UI material 3
 -->
