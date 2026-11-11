@@ -12,6 +12,9 @@ Formato riga:
 - [react-patterns](https://github.com/loricaste/react-patterns) — hooks, composition, testing
 -->
 
+- [distributed-systems-challenges](https://github.com/loricaste/distributed-systems-challenges) — solutions to the Fly.io distributed systems challenges (Maelstrom)
+
+
 ## 🚀 Projects
 
 Cose finite, pubblicate o usate davvero.
